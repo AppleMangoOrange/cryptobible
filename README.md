@@ -36,7 +36,7 @@
 - ## RSA
   - [x] [Common-modulus](src/cryptobible/rsa/common_modulus.py) - same $m, n$, different $e, d$
   - [x] [Hastad's broadcast](src/cryptobible/rsa/hastads_broadcast.py) - same message, small $e$
-  - [ ] [Coppersmith's small $e$](src/cryptobible/rsa/coppersmiths_small_e.py)
+  - [x] [Coppersmith's small $e$](src/cryptobible/rsa/coppersmiths_small_e.py)
   - [x] [Weiner's](src/cryptobible/rsa/weiners.py) - small $d$
   - [ ] Extended Weiner's
   - [ ] Boneh-Durfee - upgrade to Weiner's
